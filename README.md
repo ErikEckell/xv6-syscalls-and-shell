@@ -42,7 +42,7 @@ Salir de QEMU: `Ctrl + A`, luego `X`
 **Erik Eckell**  
 Estudiante de Ingeniería Civil en Ciencias de la Computación  
 Universidad de los Andes  
-📫 [erik.eckell@ejemplo.com](mailto:epeckell@miuandes.cl)
+📫 [epeckell@miuandes.cl](mailto:epeckell@miuandes.cl)
 
 ---
 
@@ -84,7 +84,7 @@ Exit QEMU: `Ctrl + A`, then `X`
 **Erik Eckell**  
 Computer Science Engineering Student  
 Universidad de los Andes  
-📫 [erik.eckell@ejemplo.com](mailto:epeckell@miuandes.cl)
+📫 [epeckell@miuandes.cl](mailto:epeckell@miuandes.cl)
 
 ---
 
