@@ -1,6 +1,6 @@
 # 🧠 xv6-syscalls-and-shell  
-### 💻 Tarea 1 — Llamadas al sistema e implementación de una shell  
-### 💻 Assignment 1 — System Calls and Shell Implementation
+### 💻 Llamadas al sistema e implementación de una shell  
+### 💻 System Calls and Shell Implementation
 
 ---
 
